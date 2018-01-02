@@ -45,7 +45,7 @@ var Waste = function(){
 	this.due_date = '' //date calendar
 	this.image = {};
 	this.analysis_report = {};
-	this.status = ''
+	this.status = ''	//pending, suggested and complete
 
 }
 
